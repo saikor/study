@@ -9,7 +9,7 @@ linux内核分析和应用
 **书籍资源**
 
 <div align=left>
-      <img src="D:\documents\1 - summary\学习笔记\linux内核学习笔记\书籍.png" alt="alt 书籍" style="zoom:33%;" />
-      <img src="D:\documents\1 - summary\学习笔记\linux内核学习笔记\参考文献.png" alt="alt 参考文献" style="zoom:33%;" />
+      <img src="书籍.png" alt="书籍" style="zoom:33%;" />
+      <img src="参考书籍.png" alt="参考文献" style="zoom:33%;" />
 </div>
 
