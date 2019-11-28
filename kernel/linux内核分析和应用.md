@@ -8,8 +8,6 @@ linux内核分析和应用
 
 **书籍资源**
 
-<div align=left>
-      <img src="书籍.png" alt="书籍" style="zoom:33%;" />
-      <img src="参考书籍.png" alt="参考文献" style="zoom:33%;" />
-</div>
+[书籍.png](书籍.png)
+
 
