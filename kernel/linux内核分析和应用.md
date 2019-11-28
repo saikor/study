@@ -12,3 +12,6 @@ linux内核分析和应用
 - [参考文献.png](参考文献.png)
 
 
+**更多资料**
+- [linux内核之旅](http://www.kerneltravel.net)
+- [hurlex x86小内核](https://github.com/hurley25/hurlex-doc)
