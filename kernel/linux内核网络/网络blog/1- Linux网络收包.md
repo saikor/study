@@ -4,7 +4,7 @@
 
  Linux(2.6.11.12)网络收包流程图：
 
-<img src="D:\documents\1 - summary\linux内核学习笔记\linux内核网络\linux网络收包流程_blog.png" alt="image-20200821100229457" style="zoom:50%;" />
+<img src="../images/linux网络收包流程_blog.png" alt="image-20200821100229457" style="zoom:50%;" />
 
 ```c
 

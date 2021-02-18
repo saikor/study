@@ -1,6 +1,6 @@
 # Linux网络发包流程
 
-<img src="D:\documents\1 - summary\linux内核学习笔记\linux内核网络\images\linux网络发包_blog.png" alt="image-20200821100444415" style="zoom: 80%;" />
+<img src="../images/linux网络发包_blog.png" alt="image-20200821100444415" style="zoom: 80%;" />
 
 ```c
 sys_write()
